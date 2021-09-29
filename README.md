@@ -1,5 +1,8 @@
 # 03 JavaScript: Password Generator
 
+https://github.com/iNanzo/NMH_BCHW3/
+https://inanzo.github.io/NMH_BCHW3/
+
 ## Acceptance Criteria
 
 ```
